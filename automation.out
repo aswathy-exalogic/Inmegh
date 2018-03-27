@@ -1,0 +1,619 @@
+2018-03-18 23:41:06 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:41:06 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:41:14 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-18 23:42:28 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:42:28 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:42:31 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-18 23:44:04 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:44:05 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:44:08 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-18 23:44:15 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-18 23:44:15 INFO  WaitHelper:30 - element is present...
+2018-03-18 23:48:26 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:48:26 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:48:30 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-18 23:48:37 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-18 23:48:37 INFO  WaitHelper:30 - element is present...
+2018-03-18 23:54:09 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:54:09 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:54:14 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-18 23:54:21 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-18 23:54:21 INFO  WaitHelper:30 - element is present...
+2018-03-18 23:58:15 INFO  DataSource:74 - loading config.properties..
+2018-03-18 23:58:15 INFO  DataSource:83 - loading config.properties done
+2018-03-18 23:58:18 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-19 00:05:59 INFO  DataSource:74 - loading config.properties..
+2018-03-19 00:05:59 INFO  DataSource:83 - loading config.properties done
+2018-03-19 00:06:02 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-19 00:07:40 INFO  DataSource:74 - loading config.properties..
+2018-03-19 00:07:40 INFO  DataSource:83 - loading config.properties done
+2018-03-19 00:07:45 INFO  TestBase:145 - http://52.66.147.48/
+2018-03-19 00:37:44 INFO  DataSource:74 - loading config.properties..
+2018-03-19 00:37:44 INFO  DataSource:83 - loading config.properties done
+2018-03-19 00:37:57 INFO  DataSource:74 - loading config.properties..
+2018-03-19 00:37:57 INFO  DataSource:83 - loading config.properties done
+2018-03-19 00:38:02 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 00:38:06 INFO  ReadDataFromExcelSheet:22 - Creating excel object:-demo.xlsx
+2018-03-19 00:47:32 INFO  DataSource:74 - loading config.properties..
+2018-03-19 00:47:32 INFO  DataSource:83 - loading config.properties done
+2018-03-19 00:47:35 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 00:47:39 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:11:48 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:11:48 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:11:51 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:11:54 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:30:29 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:30:29 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:30:32 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:30:36 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:34:03 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:34:03 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:34:06 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:34:10 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:46:13 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:46:13 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:46:16 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:46:19 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:49:02 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:49:02 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:49:05 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:50:59 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:50:59 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:51:03 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 01:51:08 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 01:53:43 INFO  DataSource:74 - loading config.properties..
+2018-03-19 01:53:43 INFO  DataSource:83 - loading config.properties done
+2018-03-19 01:53:48 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 14:15:29 INFO  DataSource:74 - loading config.properties..
+2018-03-19 14:15:29 INFO  DataSource:83 - loading config.properties done
+2018-03-19 14:15:50 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 14:15:57 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 14:49:31 INFO  DataSource:74 - loading config.properties..
+2018-03-19 14:49:31 INFO  DataSource:83 - loading config.properties done
+2018-03-19 14:49:35 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 14:49:42 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 15:01:26 INFO  DataSource:74 - loading config.properties..
+2018-03-19 15:01:26 INFO  DataSource:83 - loading config.properties done
+2018-03-19 15:01:30 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 15:01:36 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 15:11:17 INFO  DataSource:74 - loading config.properties..
+2018-03-19 15:11:17 INFO  DataSource:83 - loading config.properties done
+2018-03-19 15:11:23 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 15:11:31 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-19 15:11:31 INFO  WaitHelper:30 - element is present...
+2018-03-19 15:11:31 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-19 15:31:21 INFO  DataSource:74 - loading config.properties..
+2018-03-19 15:31:21 INFO  DataSource:83 - loading config.properties done
+2018-03-19 15:31:34 INFO  TestBase:122 - http://52.66.147.48/
+2018-03-19 15:31:39 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-19 15:31:39 INFO  WaitHelper:30 - element is present...
+2018-03-19 15:31:39 INFO  ReadDataFromExcelSheet:23 - Creating excel object:-demo.xlsx
+2018-03-23 12:05:29 INFO  DataSource:74 - loading config.properties..
+2018-03-23 12:05:29 INFO  DataSource:83 - loading config.properties done
+2018-03-23 12:05:42 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-23 12:05:47 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:05:47 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:05:47 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-23 12:05:48 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-23 12:05:48 INFO  loginPage:44 - entering password: 12345678
+2018-03-23 12:05:49 INFO  loginPage:49 - clicking login button
+2018-03-23 12:05:58 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:05:59 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:05:59 INFO  loginPage:37 - performing mouse over...
+2018-03-23 12:05:59 INFO  loginPage:39 - entering user Name: a@123
+2018-03-23 12:22:10 INFO  DataSource:74 - loading config.properties..
+2018-03-23 12:22:10 INFO  DataSource:83 - loading config.properties done
+2018-03-23 12:22:24 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-23 12:22:28 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:22:28 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:22:29 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-23 12:22:30 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-23 12:22:30 INFO  loginPage:44 - entering password: 12345678
+2018-03-23 12:22:31 INFO  loginPage:49 - clicking login button
+2018-03-23 12:22:41 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:22:41 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:22:41 INFO  loginPage:37 - performing mouse over...
+2018-03-23 12:22:41 INFO  loginPage:39 - entering user Name: a@123
+2018-03-23 12:48:06 INFO  DataSource:74 - loading config.properties..
+2018-03-23 12:48:06 INFO  DataSource:83 - loading config.properties done
+2018-03-23 12:48:10 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-23 12:48:13 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:48:13 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:48:13 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-23 12:48:14 INFO  loginPage:39 - entering user Name: a@123
+2018-03-23 12:48:14 INFO  loginPage:44 - entering password: emp123
+2018-03-23 12:48:15 INFO  loginPage:49 - clicking login button
+2018-03-23 12:48:24 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-23 12:48:25 INFO  WaitHelper:30 - element is present...
+2018-03-23 12:48:25 INFO  loginPage:37 - performing mouse over...
+2018-03-23 12:48:25 INFO  loginPage:39 - entering user Name: a@123
+2018-03-25 18:57:51 INFO  DataSource:74 - loading config.properties..
+2018-03-25 18:57:51 INFO  DataSource:83 - loading config.properties done
+2018-03-25 18:58:05 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 18:58:28 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 19:54:26 INFO  DataSource:74 - loading config.properties..
+2018-03-25 19:54:26 INFO  DataSource:83 - loading config.properties done
+2018-03-25 19:54:34 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 19:55:02 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 20:02:17 INFO  DataSource:74 - loading config.properties..
+2018-03-25 20:02:17 INFO  DataSource:83 - loading config.properties done
+2018-03-25 20:02:22 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 20:02:50 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 20:03:47 INFO  DataSource:74 - loading config.properties..
+2018-03-25 20:03:47 INFO  DataSource:83 - loading config.properties done
+2018-03-25 20:03:52 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 20:04:03 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-25 20:04:03 INFO  WaitHelper:30 - element is present...
+2018-03-25 20:04:03 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 20:04:04 INFO  loginPage:39 - entering user Name: a@123
+2018-03-25 20:04:04 INFO  loginPage:39 - entering user Name: a@123
+2018-03-25 20:04:39 INFO  DataSource:74 - loading config.properties..
+2018-03-25 20:04:39 INFO  DataSource:83 - loading config.properties done
+2018-03-25 20:04:44 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 20:04:49 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-25 20:04:49 INFO  WaitHelper:30 - element is present...
+2018-03-25 20:04:49 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 20:04:51 INFO  loginPage:39 - entering user Name: a@123
+2018-03-25 20:04:51 INFO  loginPage:39 - entering user Name: a@123
+2018-03-25 20:10:40 INFO  DataSource:74 - loading config.properties..
+2018-03-25 20:10:40 INFO  DataSource:83 - loading config.properties done
+2018-03-25 20:10:46 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 20:10:54 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 21:08:43 INFO  DataSource:74 - loading config.properties..
+2018-03-25 21:08:43 INFO  DataSource:83 - loading config.properties done
+2018-03-25 21:08:48 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 21:09:16 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 22:33:22 INFO  DataSource:74 - loading config.properties..
+2018-03-25 22:33:22 INFO  DataSource:83 - loading config.properties done
+2018-03-25 22:33:30 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 22:33:56 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 22:34:44 INFO  DataSource:74 - loading config.properties..
+2018-03-25 22:34:44 INFO  DataSource:83 - loading config.properties done
+2018-03-25 22:34:48 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 22:35:17 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 22:39:14 INFO  DataSource:74 - loading config.properties..
+2018-03-25 22:39:14 INFO  DataSource:83 - loading config.properties done
+2018-03-25 22:39:19 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 22:39:47 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 22:46:23 INFO  DataSource:74 - loading config.properties..
+2018-03-25 22:46:23 INFO  DataSource:83 - loading config.properties done
+2018-03-25 22:46:28 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 22:47:00 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-25 23:01:26 INFO  DataSource:74 - loading config.properties..
+2018-03-25 23:01:26 INFO  DataSource:83 - loading config.properties done
+2018-03-25 23:01:31 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-25 23:02:01 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 09:52:29 INFO  DataSource:74 - loading config.properties..
+2018-03-26 09:52:29 INFO  DataSource:83 - loading config.properties done
+2018-03-26 09:52:43 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 09:52:47 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 09:52:47 INFO  WaitHelper:30 - element is present...
+2018-03-26 09:52:47 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 09:52:49 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 09:52:49 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 09:56:40 INFO  DataSource:74 - loading config.properties..
+2018-03-26 09:56:40 INFO  DataSource:83 - loading config.properties done
+2018-03-26 09:56:47 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 09:56:51 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 09:56:52 INFO  WaitHelper:30 - element is present...
+2018-03-26 09:56:52 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 09:56:53 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 09:56:53 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 11:35:40 INFO  DataSource:74 - loading config.properties..
+2018-03-26 11:35:40 INFO  DataSource:83 - loading config.properties done
+2018-03-26 11:35:46 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 11:35:50 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 11:35:50 INFO  WaitHelper:30 - element is present...
+2018-03-26 11:35:50 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 11:35:52 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 11:35:52 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 11:41:13 INFO  DataSource:74 - loading config.properties..
+2018-03-26 11:41:13 INFO  DataSource:83 - loading config.properties done
+2018-03-26 11:41:19 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 11:41:22 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 11:41:23 INFO  WaitHelper:30 - element is present...
+2018-03-26 11:41:23 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 11:41:24 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 11:41:24 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 14:37:57 INFO  DataSource:74 - loading config.properties..
+2018-03-26 14:37:57 INFO  DataSource:83 - loading config.properties done
+2018-03-26 14:38:05 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 14:38:09 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 14:38:09 INFO  WaitHelper:30 - element is present...
+2018-03-26 14:38:09 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 14:38:10 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 14:38:11 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 14:48:14 INFO  DataSource:74 - loading config.properties..
+2018-03-26 14:48:14 INFO  DataSource:83 - loading config.properties done
+2018-03-26 14:48:19 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 14:48:23 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 14:48:24 INFO  WaitHelper:30 - element is present...
+2018-03-26 14:48:24 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 14:48:25 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 14:48:25 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 15:17:29 INFO  DataSource:74 - loading config.properties..
+2018-03-26 15:17:29 INFO  DataSource:83 - loading config.properties done
+2018-03-26 15:17:38 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 15:17:42 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 15:17:42 INFO  WaitHelper:30 - element is present...
+2018-03-26 15:17:42 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 15:17:43 INFO  loginPage:39 - entering user Name: a@123
+2018-03-26 15:17:43 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-26 15:49:52 INFO  DataSource:74 - loading config.properties..
+2018-03-26 15:49:52 INFO  DataSource:83 - loading config.properties done
+2018-03-26 15:50:00 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 15:50:02 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 15:50:03 INFO  WaitHelper:30 - element is present...
+2018-03-26 15:50:03 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 15:50:05 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 15:50:05 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 15:55:38 INFO  DataSource:74 - loading config.properties..
+2018-03-26 15:55:38 INFO  DataSource:83 - loading config.properties done
+2018-03-26 15:55:46 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 15:55:50 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 15:55:50 INFO  WaitHelper:30 - element is present...
+2018-03-26 15:55:50 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 15:55:52 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 15:55:52 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 16:18:26 INFO  DataSource:74 - loading config.properties..
+2018-03-26 16:18:26 INFO  DataSource:83 - loading config.properties done
+2018-03-26 16:18:39 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 16:18:43 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 16:18:43 INFO  WaitHelper:30 - element is present...
+2018-03-26 16:18:43 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 16:18:45 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 16:18:45 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:07:26 INFO  DataSource:74 - loading config.properties..
+2018-03-26 19:07:26 INFO  DataSource:83 - loading config.properties done
+2018-03-26 19:07:36 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 19:07:40 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 19:07:40 INFO  WaitHelper:30 - element is present...
+2018-03-26 19:07:40 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 19:25:57 INFO  DataSource:74 - loading config.properties..
+2018-03-26 19:25:57 INFO  DataSource:83 - loading config.properties done
+2018-03-26 19:26:01 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 19:26:07 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 19:26:07 INFO  WaitHelper:30 - element is present...
+2018-03-26 19:26:07 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 19:26:08 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 19:26:08 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:26:09 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:29:58 INFO  DataSource:74 - loading config.properties..
+2018-03-26 19:29:58 INFO  DataSource:83 - loading config.properties done
+2018-03-26 19:30:01 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 19:30:19 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 19:30:20 INFO  WaitHelper:30 - element is present...
+2018-03-26 19:30:20 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 19:30:20 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 19:30:20 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:30:20 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:30:52 INFO  DataSource:74 - loading config.properties..
+2018-03-26 19:30:52 INFO  DataSource:83 - loading config.properties done
+2018-03-26 19:30:56 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-26 19:31:02 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-26 19:31:02 INFO  WaitHelper:30 - element is present...
+2018-03-26 19:31:02 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-26 19:31:03 INFO  loginPage:37 - entering user Name: a@123
+2018-03-26 19:31:03 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-26 19:31:03 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 00:22:06 INFO  DataSource:74 - loading config.properties..
+2018-03-27 00:22:06 INFO  DataSource:83 - loading config.properties done
+2018-03-27 00:22:09 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 00:22:39 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 06:59:51 INFO  DataSource:74 - loading config.properties..
+2018-03-27 06:59:51 INFO  DataSource:83 - loading config.properties done
+2018-03-27 06:59:56 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:00:16 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 07:32:37 INFO  DataSource:74 - loading config.properties..
+2018-03-27 07:32:37 INFO  DataSource:83 - loading config.properties done
+2018-03-27 07:32:42 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:33:02 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 07:35:55 INFO  DataSource:74 - loading config.properties..
+2018-03-27 07:35:55 INFO  DataSource:83 - loading config.properties done
+2018-03-27 07:35:58 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:36:18 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 07:43:36 INFO  DataSource:74 - loading config.properties..
+2018-03-27 07:43:36 INFO  DataSource:83 - loading config.properties done
+2018-03-27 07:43:43 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:44:03 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 07:46:24 INFO  DataSource:74 - loading config.properties..
+2018-03-27 07:46:24 INFO  DataSource:83 - loading config.properties done
+2018-03-27 07:46:28 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:46:48 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 07:54:36 INFO  DataSource:74 - loading config.properties..
+2018-03-27 07:54:36 INFO  DataSource:83 - loading config.properties done
+2018-03-27 07:54:39 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 07:54:59 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 10:15:25 INFO  DataSource:74 - loading config.properties..
+2018-03-27 10:15:25 INFO  DataSource:83 - loading config.properties done
+2018-03-27 10:15:35 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 10:15:46 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:15:46 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:15:46 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 10:15:47 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 10:15:47 INFO  loginPage:42 - entering password: emp123
+2018-03-27 10:15:48 INFO  loginPage:47 - clicking login button
+2018-03-27 10:15:58 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:15:58 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:15:58 INFO  loginPage:51 - clicking login button
+2018-03-27 10:16:03 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:16:05 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:16:05 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:16:05 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 10:16:05 INFO  loginPage:47 - clicking login button
+2018-03-27 10:16:15 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:16:16 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:16:16 INFO  loginPage:51 - clicking login button
+2018-03-27 10:16:21 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:16:22 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:16:22 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:16:22 INFO  loginPage:42 - entering password: 12345
+2018-03-27 10:16:22 INFO  loginPage:47 - clicking login button
+2018-03-27 10:16:28 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:47:38 INFO  DataSource:74 - loading config.properties..
+2018-03-27 10:47:38 INFO  DataSource:83 - loading config.properties done
+2018-03-27 10:47:45 INFO  TestBase:133 - http://52.66.147.48/
+2018-03-27 10:47:48 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:47:48 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:47:48 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 10:47:50 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 10:47:50 INFO  loginPage:42 - entering password: emp123
+2018-03-27 10:47:50 INFO  loginPage:47 - clicking login button
+2018-03-27 10:48:00 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:48:00 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:48:00 INFO  loginPage:51 - clicking login button
+2018-03-27 10:48:06 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:48:07 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:48:07 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:48:08 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 10:48:08 INFO  loginPage:47 - clicking login button
+2018-03-27 10:48:18 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:48:18 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:48:18 INFO  loginPage:51 - clicking login button
+2018-03-27 10:48:19 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:48:19 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:48:19 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:48:19 INFO  loginPage:42 - entering password: 12345
+2018-03-27 10:48:20 INFO  loginPage:47 - clicking login button
+2018-03-27 10:48:21 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:57:38 INFO  DataSource:74 - loading config.properties..
+2018-03-27 10:57:38 INFO  DataSource:83 - loading config.properties done
+2018-03-27 10:57:45 INFO  TestBase:151 - http://52.66.147.48/
+2018-03-27 10:57:48 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:57:49 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:57:49 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 10:57:50 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 10:57:50 INFO  loginPage:42 - entering password: emp123
+2018-03-27 10:57:51 INFO  loginPage:47 - clicking login button
+2018-03-27 10:58:06 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:58:06 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:58:06 INFO  loginPage:51 - clicking login button
+2018-03-27 10:58:11 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:58:12 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:58:12 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:58:12 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 10:58:12 INFO  loginPage:47 - clicking login button
+2018-03-27 10:58:23 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:58:23 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:58:23 INFO  loginPage:51 - clicking login button
+2018-03-27 10:58:25 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 10:58:26 INFO  WaitHelper:30 - element is present...
+2018-03-27 10:58:26 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 10:58:26 INFO  loginPage:42 - entering password: 12345
+2018-03-27 10:58:26 INFO  loginPage:47 - clicking login button
+2018-03-27 11:00:44 INFO  DataSource:74 - loading config.properties..
+2018-03-27 11:00:44 INFO  DataSource:83 - loading config.properties done
+2018-03-27 11:00:49 INFO  TestBase:151 - http://52.66.147.48/
+2018-03-27 11:00:51 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:00:52 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:00:52 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 11:00:53 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 11:00:53 INFO  loginPage:42 - entering password: emp123
+2018-03-27 11:00:53 INFO  loginPage:47 - clicking login button
+2018-03-27 11:01:03 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:01:03 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:01:03 INFO  loginPage:51 - clicking login button
+2018-03-27 11:01:09 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:01:10 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:01:10 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:01:10 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 11:01:10 INFO  loginPage:47 - clicking login button
+2018-03-27 11:01:21 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:01:41 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:09:17 INFO  DataSource:74 - loading config.properties..
+2018-03-27 11:09:17 INFO  DataSource:83 - loading config.properties done
+2018-03-27 11:09:21 INFO  TestBase:173 - http://52.66.147.48/
+2018-03-27 11:09:23 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:09:24 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:09:24 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 11:09:25 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 11:09:25 INFO  loginPage:42 - entering password: emp123
+2018-03-27 11:09:25 INFO  loginPage:47 - clicking login button
+2018-03-27 11:09:36 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:09:36 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:09:36 INFO  loginPage:51 - clicking login button
+2018-03-27 11:09:41 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:09:43 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:09:43 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:09:43 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 11:09:43 INFO  loginPage:47 - clicking login button
+2018-03-27 11:09:49 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:09:49 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:09:49 INFO  loginPage:51 - clicking login button
+2018-03-27 11:09:49 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:09:50 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:09:50 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:09:50 INFO  loginPage:42 - entering password: 12345
+2018-03-27 11:09:50 INFO  loginPage:47 - clicking login button
+2018-03-27 11:09:51 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:27 INFO  DataSource:74 - loading config.properties..
+2018-03-27 11:12:27 INFO  DataSource:83 - loading config.properties done
+2018-03-27 11:12:32 INFO  TestBase:173 - http://52.66.147.48/
+2018-03-27 11:12:35 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:36 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:12:36 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 11:12:37 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 11:12:37 INFO  loginPage:42 - entering password: emp123
+2018-03-27 11:12:37 INFO  loginPage:47 - clicking login button
+2018-03-27 11:12:43 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:43 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:12:43 INFO  loginPage:51 - clicking login button
+2018-03-27 11:12:44 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:44 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:12:44 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:12:45 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 11:12:45 INFO  loginPage:47 - clicking login button
+2018-03-27 11:12:51 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:51 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:12:51 INFO  loginPage:51 - clicking login button
+2018-03-27 11:12:51 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:12:52 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:12:52 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:12:52 INFO  loginPage:42 - entering password: 12345
+2018-03-27 11:12:52 INFO  loginPage:47 - clicking login button
+2018-03-27 11:12:53 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:11 INFO  DataSource:74 - loading config.properties..
+2018-03-27 11:35:11 INFO  DataSource:83 - loading config.properties done
+2018-03-27 11:35:16 INFO  TestBase:173 - http://52.66.147.48/
+2018-03-27 11:35:19 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:20 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:35:20 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 11:35:21 INFO  loginPage:39 - entering user Name: a@123
+2018-03-27 11:35:21 INFO  loginPage:44 - entering password: emp123
+2018-03-27 11:35:21 INFO  loginPage:49 - clicking login button
+2018-03-27 11:35:31 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:31 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:35:31 INFO  loginPage:51 - clicking login button
+2018-03-27 11:35:37 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:38 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:35:38 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:35:38 INFO  loginPage:44 - entering password: 12345678
+2018-03-27 11:35:38 INFO  loginPage:49 - clicking login button
+2018-03-27 11:35:49 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:49 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:35:49 INFO  loginPage:51 - clicking login button
+2018-03-27 11:35:54 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:35:56 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:35:56 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:35:56 INFO  loginPage:44 - entering password: 12345
+2018-03-27 11:35:56 INFO  loginPage:49 - clicking login button
+2018-03-27 11:36:03 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:42:53 INFO  DataSource:74 - loading config.properties..
+2018-03-27 11:42:53 INFO  DataSource:83 - loading config.properties done
+2018-03-27 11:42:58 INFO  TestBase:130 - http://52.66.147.48/
+2018-03-27 11:43:02 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:43:03 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:43:03 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 11:43:04 INFO  loginPage:39 - entering user Name: a@123
+2018-03-27 11:43:04 INFO  loginPage:44 - entering password: emp123
+2018-03-27 11:43:04 INFO  loginPage:49 - clicking login button
+2018-03-27 11:43:15 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:43:15 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:43:15 INFO  loginPage:51 - clicking login button
+2018-03-27 11:43:20 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:43:21 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:43:21 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:43:21 INFO  loginPage:44 - entering password: 12345678
+2018-03-27 11:43:22 INFO  loginPage:49 - clicking login button
+2018-03-27 11:43:32 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:43:32 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:43:32 INFO  loginPage:51 - clicking login button
+2018-03-27 11:43:38 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 11:43:39 INFO  WaitHelper:30 - element is present...
+2018-03-27 11:43:39 INFO  loginPage:39 - entering user Name: admin@inmeghcms.in
+2018-03-27 11:43:40 INFO  loginPage:44 - entering password: 12345
+2018-03-27 11:43:40 INFO  loginPage:49 - clicking login button
+2018-03-27 11:43:45 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 12:59:24 INFO  DataSource:74 - loading config.properties..
+2018-03-27 12:59:24 INFO  DataSource:83 - loading config.properties done
+2018-03-27 12:59:36 INFO  TestBase:174 - http://52.66.147.48/
+2018-03-27 12:59:41 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 12:59:41 INFO  WaitHelper:30 - element is present...
+2018-03-27 12:59:41 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 12:59:42 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 12:59:43 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 12:59:44 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 12:59:44 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 12:59:44 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 12:59:44 INFO  GenericHelper:61 - java.lang.NullPointerException
+2018-03-27 13:03:02 INFO  DataSource:74 - loading config.properties..
+2018-03-27 13:03:02 INFO  DataSource:83 - loading config.properties done
+2018-03-27 13:03:10 INFO  TestBase:133 - http://52.66.147.48/
+2018-03-27 13:03:15 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:03:15 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:03:15 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 13:03:16 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 13:03:16 INFO  loginPage:42 - entering password: emp123
+2018-03-27 13:03:17 INFO  loginPage:47 - clicking login button
+2018-03-27 13:03:36 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:03:36 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:03:36 INFO  loginPage:36 - clicking login button
+2018-03-27 13:03:45 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:03:46 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:03:46 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:03:46 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 13:03:46 INFO  loginPage:47 - clicking login button
+2018-03-27 13:04:11 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:07:24 INFO  DataSource:74 - loading config.properties..
+2018-03-27 13:07:24 INFO  DataSource:83 - loading config.properties done
+2018-03-27 13:07:29 INFO  TestBase:126 - http://52.66.147.48/
+2018-03-27 13:07:37 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:07:38 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:07:38 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 13:07:38 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 13:07:38 INFO  loginPage:42 - entering password: emp123
+2018-03-27 13:07:39 INFO  loginPage:47 - clicking login button
+2018-03-27 13:07:59 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:08:19 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:12:00 INFO  DataSource:74 - loading config.properties..
+2018-03-27 13:12:00 INFO  DataSource:83 - loading config.properties done
+2018-03-27 13:12:05 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 13:12:09 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:12:10 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:12:10 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 13:12:11 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 13:12:11 INFO  loginPage:42 - entering password: emp123
+2018-03-27 13:12:11 INFO  loginPage:47 - clicking login button
+2018-03-27 13:12:16 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:12:16 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:12:16 INFO  loginPage:36 - clicking login button
+2018-03-27 13:12:17 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:12:17 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:12:17 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:12:17 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 13:12:18 INFO  loginPage:47 - clicking login button
+2018-03-27 13:12:26 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:12:26 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:12:26 INFO  loginPage:36 - clicking login button
+2018-03-27 13:12:27 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 13:12:28 INFO  WaitHelper:30 - element is present...
+2018-03-27 13:12:28 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 13:12:28 INFO  loginPage:42 - entering password: 12345
+2018-03-27 13:12:28 INFO  loginPage:47 - clicking login button
+2018-03-27 13:12:29 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:26:26 INFO  DataSource:74 - loading config.properties..
+2018-03-27 16:26:26 INFO  DataSource:83 - loading config.properties done
+2018-03-27 16:26:44 INFO  TestBase:123 - http://52.66.147.48/
+2018-03-27 16:26:48 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:26:48 INFO  WaitHelper:30 - element is present...
+2018-03-27 16:26:48 INFO  ReadDataFromExcelSheet:27 - Creating excel object:-C:\Users\Aswathy\eclipse-workspace\inmegh\src\main\resources\testData/demo.xlsx
+2018-03-27 16:26:50 INFO  loginPage:37 - entering user Name: a@123
+2018-03-27 16:26:50 INFO  loginPage:42 - entering password: emp123
+2018-03-27 16:26:50 INFO  loginPage:47 - clicking login button
+2018-03-27 16:27:01 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:27:01 INFO  WaitHelper:30 - element is present...
+2018-03-27 16:27:01 INFO  loginPage:36 - clicking login button
+2018-03-27 16:27:07 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:27:08 INFO  WaitHelper:30 - element is present...
+2018-03-27 16:27:08 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 16:27:08 INFO  loginPage:42 - entering password: 12345678
+2018-03-27 16:27:08 INFO  loginPage:47 - clicking login button
+2018-03-27 16:27:22 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:27:22 INFO  WaitHelper:30 - element is present...
+2018-03-27 16:27:22 INFO  loginPage:36 - clicking login button
+2018-03-27 16:27:28 INFO  WaitHelper:27 - waiting for element to present..
+2018-03-27 16:27:29 INFO  WaitHelper:30 - element is present...
+2018-03-27 16:27:29 INFO  loginPage:37 - entering user Name: admin@inmeghcms.in
+2018-03-27 16:27:29 INFO  loginPage:42 - entering password: 12345
+2018-03-27 16:27:29 INFO  loginPage:47 - clicking login button
+2018-03-27 16:27:35 INFO  WaitHelper:27 - waiting for element to present..
