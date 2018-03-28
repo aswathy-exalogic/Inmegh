@@ -33,6 +33,7 @@ import com.ski.testBase.TestBase;
 				throw new SkipException("Run mode for this set of data is marked N");
 				}
 				
+				
 				homePage homePage = login.loginToApplication(userName, password);
 				homePage.clicklogout();
 			}

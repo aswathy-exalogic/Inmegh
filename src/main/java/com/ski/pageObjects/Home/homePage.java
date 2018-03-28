@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import com.ski.GenericHelper.GenericHelper;
 import com.ski.helper.logger.LoggerHelper;
 import com.ski.helper.waitHelper.WaitHelper;
 import com.ski.pageObjects.Login.loginPage;
@@ -18,7 +19,8 @@ public class homePage {
 	private static Logger log = LoggerHelper.getLogger(loginPage.class);
 	
 	@FindBy(xpath="//span[contains(text(),'Dashboard')]")
-	WebElement  Dashboard;
+	static
+	WebElement Dashboard;
 	
 	@FindBy(xpath="//span[@class='entypo-logout right']")
 	WebElement logout;
@@ -31,12 +33,19 @@ public class homePage {
 		waitHelper = new WaitHelper(driver);
 		waitHelper.waitForElement( Dashboard, DataSource.getExplicitWait());
 	}
+	/*public static boolean verifySuccessLoginMsg() {
+	 return new GenericHelper().isDisplayed(Dashboard);
+	}*/
 	
 	public loginPage clicklogout() {
 		log.info("clicking login button");
 		logout.click();
 
 		return new loginPage(driver);
+		
+
+		
+		
 	
 }}
 

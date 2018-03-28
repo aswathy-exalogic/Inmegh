@@ -6,8 +6,11 @@
       <class name="com.ski.logintest.logintest">
         <methods>
           <include name="beforeClass"/>
-          <include name="loginTest" invocation-numbers="2 3 4 5"/>
+          <include name="endTest"/>
+          <include name="loginTest" invocation-numbers="3 4 5"/>
+          <include name="afterMethod"/>
           <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
         </methods>
       </class> <!-- com.ski.logintest.logintest -->
     </classes>
