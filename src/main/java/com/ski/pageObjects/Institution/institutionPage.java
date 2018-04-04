@@ -17,12 +17,13 @@ public class institutionPage {
 	private static Logger log = LoggerHelper.getLogger(institutionPage.class);
 	
 	@FindBy(xpath = "//span[contains(text(),'Setup')]")
+	static
 	WebElement Setup;
 	
 	@FindBy(xpath = "//span[contains(text(),'College')]")
 	WebElement College;
 	
-	@FindBy(xpath = "//span[contains(text(),'Institutions')")
+	@FindBy(xpath = "//span[contains(text(),'Institutions')]")
 	WebElement Institutions;
 	
 	@FindBy(xpath = "//input[@id='branch_name']")
@@ -80,7 +81,7 @@ public class institutionPage {
 		waitHelper.waitForElement(branch_name, DataSource.getExplicitWait());
 	}
 	
-	public void clickSetup() {
+	public static void clickSetup() {
 		log.info("clicking on Setup ");
 		Setup.click();
 	}
@@ -102,7 +103,7 @@ public class institutionPage {
 	
 	public void enterBranchcode(String branch_code) {
 		log.info("entering branch_code as : " +branch_code);
-		this.branch_name.sendKeys(branch_code);
+		this.branch_code.sendKeys(branch_code);
 	}
 	public void enterBranchAddressline1(String branch_address_line_1) {
 		log.info("entering branch_address_line_1 as : " + branch_address_line_1);
@@ -110,49 +111,49 @@ public class institutionPage {
 	}
 	public void enterBranchAddressline2(String branch_address_line_2) {
 		log.info("entering branch_address_line_2 as : " +branch_address_line_2);
-		this.branch_name.sendKeys(branch_address_line_2);
+		this.branch_address_line_2.sendKeys(branch_address_line_2);
 	}
 	public void enterBranchCountry(String branch_country) {
 		log.info("entering branch_country as : " + branch_country);
-		this.branch_name.sendKeys(branch_country);
+		this.branch_country.sendKeys(branch_country);
 	}
 	public void enterBranchstate(String branch_state) {
 		log.info("entering branch_state as : " + branch_state);
-		this.branch_name.sendKeys(branch_state);
+		this.branch_state.sendKeys(branch_state);
 	}
 	public void enterBranchCity(String branch_city) {
 		log.info("entering  branch_city as : " + branch_city);
-		this.branch_name.sendKeys(branch_city);
+		this.branch_city.sendKeys(branch_city);
 	}
 	public void enterpincode(String branch_pincode) {
 		log.info("entering branch_pincode  as : " + branch_pincode);
-		this.branch_name.sendKeys(branch_pincode);
+		this.branch_pincode.sendKeys(branch_pincode);
 	}
 	public void enterBranchEmail(String branch_email) {
 		log.info("entering branch_email as : " + branch_email);
-		this.branch_name.sendKeys(branch_email);
+		this.branch_email.sendKeys(branch_email);
 	}
 	public void enterBranchwebsite(String branch_website) {
 		log.info("entering  branch_website as : " + branch_website);
-		this.branch_name.sendKeys(branch_website);
+		this.branch_website.sendKeys(branch_website);
 	}
 	
 	public void enterBranchStudentLogin(String branch_student_login_prefix) {
 		log.info("entering enterBranchStudentLogin as : " +branch_student_login_prefix);
-		this.branch_name.sendKeys(branch_student_login_prefix);
+		this.branch_student_login_prefix.sendKeys(branch_student_login_prefix);
 	}
 	
 	public void enterBranchemployeelogin(String branch_employee_login_prefix) {
 		log.info("entering first name as : " + branch_employee_login_prefix);
-		this.branch_name.sendKeys(branch_employee_login_prefix);
+		this. branch_employee_login_prefix.sendKeys(branch_employee_login_prefix);
 	}
 	public void enterBranchphone(String branch_phone) {
 		log.info("entering first name as : " +branch_phone);
-		this.branch_name.sendKeys(branch_phone);
+		this.branch_phone.sendKeys(branch_phone);
 	}
 	public void enterBranchFax(String branch_fax) {
 		log.info("entering first name as : " + branch_fax);
-		this.branch_name.sendKeys(branch_fax);
+		this.branch_fax.sendKeys(branch_fax);
 	}
 	
 	public void clickInstitutionscreatebutton() {
@@ -160,8 +161,8 @@ public class institutionPage {
 		createbutton.click();
 	}
 	
-	public void createLeads(String branch_name, String branch_code, String branch_address_line_1, String branch_address_line_2, String branch_country, String branch_state, String branch_city, String branch_pincode, String branch_email,
-	String branch_website, String branch_student_login_prefix, String branch_employee_login_prefix, String branch_phone, String branch_fax) {
+	public void createInstitution(String userName, String password, String branch_name, String branch_code, String branch_address_line_1, String branch_address_line_2, String branch_country, String branch_state, String branch_city, String branch_pincode, String branch_email,
+	String branch_website, String branch_student_login_prefix, String branch_employee_login_prefix, String branch_phone, String branch_fax, String runMode) {
 		
 		clickSetup();
 		clickCollege();
@@ -181,5 +182,5 @@ public class institutionPage {
 		enterBranchphone(branch_phone);
 		enterBranchFax(branch_fax);
 		clickInstitutionscreatebutton();
-		
-}}
+
+	}}
