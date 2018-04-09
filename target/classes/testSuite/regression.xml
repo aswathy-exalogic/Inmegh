@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+  <test name="logintest">
+    <classes>
+      <class name="com.ski.logintest.logintest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="institutiontest">
+    <classes>
+      <class name="com.ski.institution.institutiontest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

@@ -27,12 +27,10 @@ import com.ski.testBase.TestBase;
 			
 			@Test(dataProvider="testData")
 			public void loginTest(String userName, String password, String runMode){
-				if(userName != null) {
-					if(runMode.equalsIgnoreCase("n")){
-						throw new SkipException("Run mode for this set of data is marked N");
-					}
-					homePage homePage = login.loginToApplication(userName, password);
-					homePage.clicklogout();
+				if(runMode.equalsIgnoreCase("n")){
+					throw new SkipException("Run mode for this set of data is marked N");
 				}
+				homePage homePage = login.loginToApplication(userName, password);
+				homePage.clicklogout();
 			}
 	}

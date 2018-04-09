@@ -5,8 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
-import com.ski.GenericHelper.GenericHelper;
 import com.ski.helper.logger.LoggerHelper;
 import com.ski.helper.waitHelper.WaitHelper;
 import com.ski.pageObjects.Home.homePage;
@@ -26,9 +24,6 @@ public class loginPage {
 	@FindBy(xpath = "//button[@class='btn btn-primary btn-block btn-login']")
 	WebElement loginButton;
 	
-	/*@FindBy(xpath="//span[contains(text(),'Dashboard')]")
-	static
-	WebElement  Dashboard;*/
 
 	public loginPage(WebDriver driver) {
 		super();
@@ -52,9 +47,6 @@ public class loginPage {
 		log.info("clicking login button");
 		loginButton.click();
 	}
-	/*public static boolean verifySuccessLoginMsg1(){
-		return new GenericHelper().isDisplayed(Dashboard);
-	}*/
 	
 	public homePage loginToApplication(String userName, String password) {
 		setUserName(userName);

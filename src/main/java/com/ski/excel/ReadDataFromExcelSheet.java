@@ -37,6 +37,7 @@ import org.apache.poi.ss.usermodel.Row;
 				int totalRow = sheet.getLastRowNum();
 				// count number of active columns in row
 				int totalColumn = sheet.getRow(0).getLastCellNum();
+				
 				// Create array of rows and column
 				dataSets = new String[totalRow][totalColumn];
 				// Iterate through each rows one by one
@@ -47,6 +48,7 @@ import org.apache.poi.ss.usermodel.Row;
 					
 					Row row = rowIterator.next();
 					// For each row, iterate through all the columns
+					
 					Iterator<Cell> cellIterator = row.cellIterator();
 					int j = 0;
 					while (cellIterator.hasNext()) {

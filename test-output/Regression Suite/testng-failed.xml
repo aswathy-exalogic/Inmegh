@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <test name="logintest(failed)">
+    <classes>
+      <class name="com.ski.logintest.logintest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="endTest"/>
+          <include name="loginTest" invocation-numbers="1 2"/>
+          <include name="afterMethod"/>
+          <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ski.logintest.logintest -->
+      <class name="com.ski.institution.institutiontest">
+        <methods>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.ski.institution.institutiontest -->
+    </classes>
+  </test> <!-- logintest(failed) -->
+  <test name="institutiontest(failed)">
+    <classes>
+      <class name="com.ski.logintest.logintest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ski.logintest.logintest -->
+      <class name="com.ski.institution.institutiontest">
+        <methods>
+          <include name="endTest"/>
+          <include name="launchBrowser"/>
+          <include name="testinstitution" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.ski.institution.institutiontest -->
+    </classes>
+  </test> <!-- institutiontest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

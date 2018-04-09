@@ -51,7 +51,7 @@ public class Quotes {
 
 	public void testcreateQuotes(String quotation) {
 		clickQuotesoftheDay();
-		//enterQuotation(Quotation);
+	//	enterQuotation(Quotation);
 		Create();
 	}
 	

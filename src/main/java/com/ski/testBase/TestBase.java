@@ -173,6 +173,7 @@ public class TestBase {
 	public void getApplicationURL(String url){
 		log.info(url);
 		driver.get(url);
+		driver.manage().window().maximize();
 	}
 
 }

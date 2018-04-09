@@ -33,7 +33,6 @@ public class institutiontest extends TestBase {
 	
 	public void testinstitution(String userName,String password,String branch_name, String branch_code, String branch_address_line_1, String branch_address_line_2, String branch_country, String branch_state, String branch_city, String branch_pincode, String branch_email,
 			String branch_website, String branch_student_login_prefix, String branch_employee_login_prefix, String branch_phone, String branch_fax, String runMode) {
-		if(userName != null) {
 			if(runMode.equalsIgnoreCase("n")){
 				throw new SkipException("Run mode for this set of data is marked N");
 			}
@@ -41,6 +40,5 @@ public class institutiontest extends TestBase {
 			institutionPage inst = home.navigateToinstitutionPage();
 			inst.createInstitution(userName, password, branch_name, branch_code, branch_address_line_1, branch_address_line_2, branch_country, branch_state, branch_city, branch_pincode, branch_email, branch_website, branch_student_login_prefix, branch_employee_login_prefix, branch_phone, branch_fax, runMode);
 			home.clicklogout();
-		}
 	}
 }
